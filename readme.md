@@ -2,17 +2,17 @@ HORRIBLE(subs)DOWNLOADER
 ========================
 
 Steal your colored pencil waifus from the evil money grubbing artists
-with the power of your yūjin at horrible subs. baka.
+with the power of your yūjin at horrible subs. Baka~~!
 
-you need to be running (or have access to) a transmission server/daemon
-The login information is prompted at runtime, along with the anime information
+You need to be running (or have access to) a transmission server/daemon.
+The login information is prompted at runtime, along with the anime information.
 
 Requirements
 ------------
- - Linux: or maybe BSD or a MAC. open to bug reports from either of these two
- - transmission: the torrent client needs to run in daemon (server) form
- - nodejs: that shitty SJW infested project thats somewhere on github
- - npm: the usefull thing ever written in nodejs (it is a package manager)
+ - Linux: Maybe BSD or a MAC? Open to bug reports from either of these two.
+ - transmission: The torrent client needs to run in daemon (server) form.
+ - nodejs: That shitty SJW infested project thats somewhere on github.
+ - npm: The only usefull thing ever written in nodejs (it is a package manager)
 
 Installing - Local
 ------------------
@@ -35,9 +35,10 @@ Running - System
 
 Donate
 ------
-Instead of paying people who do actual work for your animes,
-you should pay the poor college student who made this shitty
-script in like an hour. you can donate your buttcoins here:
+Instead of paying people who do actual work to watch your shitty cartoons,
+you should pay the poor college student who made this script in like an hour.
+You can donate your buttcoins to me here:
+
 1EDyy6RhyrtCT4LAkVmZirS9RVrN29Mqks
 
 thx senpai
