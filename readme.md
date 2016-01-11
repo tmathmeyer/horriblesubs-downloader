@@ -9,7 +9,8 @@ The login information is prompted at runtime, along with the anime information
 
 Requirements
 ------------
- - Linux: or maybe BSD or a MAC. open to bug reports from either of these two.
+ - Linux: or maybe BSD or a MAC. open to bug reports from either of these two
+ - transmission: the torrent client needs to run in daemon (server) form
  - nodejs: that shitty SJW infested project thats somewhere on github
  - npm: the usefull thing ever written in nodejs (it is a package manager)
 
