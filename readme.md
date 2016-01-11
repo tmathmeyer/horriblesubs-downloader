@@ -9,28 +9,28 @@ The login information is prompted at runtime, along with the anime information
 
 Requirements
 ------------
-Linux - or maybe BSD or a MAC. open to bug reports from either of these two.
-nodejs - that shitty SJW infested project thats somewhere on github
-npm - the usefull thing ever written in nodejs (it is a package manager)
+ - Linux: or maybe BSD or a MAC. open to bug reports from either of these two.
+ - nodejs: that shitty SJW infested project thats somewhere on github
+ - npm: the usefull thing ever written in nodejs (it is a package manager)
 
 Installing - Local
 ------------------
-Clone or download the git repo
-run ```npm install```
+ - Clone or download the git repo
+ - run ```npm install```
 
 Running - Local
 ---------------
-run ```node dl.js```
+ - run ```node dl.js```
 
 Installing - System
 -------------------
-Clone or download repo
-run ```./install.sh```
+ - Clone or download repo
+ - run ```./install.sh```
  ** requires root **
 
 Running - System
 ----------------
-run ```horribledownload``` (it got put into /usr/local/bin)
+ - run ```horribledownload``` (it got put into /usr/local/bin)
 
 Donate
 ------
